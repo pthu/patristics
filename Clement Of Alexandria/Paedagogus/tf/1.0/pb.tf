@@ -1,0 +1,520 @@
+@node
+@_book=Paedagogus
+@author=Clement of Alexandria
+@availableStructure=book,chapter,section,subsection
+@compiler=Ernst Boogert
+@description=not given
+@edition=Clement of Alexandria, Otto Stahlin, Protrepticus und Paedagogus, Hinrichs, Leipzig, 1905, Internet Archive.
+@editor=Otto Stahlin
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=not provided by source
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg0555.tlg002.opp-grc1
+@valueType=str
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:37:13Z
+
+59546	96 P
+90
+97 P
+35 S
+98 P
+91
+99 P
+92
+100 P
+36 S
+93
+101 P
+94
+102 P
+37 S
+95
+103 P
+96
+104 P
+97
+38 S
+105 P
+98
+106 P
+99
+107 P
+39 S
+100
+108 P
+101
+109 P
+102
+110 P
+40 S
+103
+111 P
+104
+112 P
+105
+113 P
+41 S
+106
+114 P
+115 P
+107
+42 S
+116 P
+108
+117 P
+109
+118 P
+43 S
+110
+119 P
+111
+120 P
+112
+44 S
+121 P
+113
+122 P
+114
+45 S
+115
+123 P
+124 P
+116
+125 P
+117
+46 S
+118
+126 P
+119
+127 P
+47 S
+120
+128 P
+121
+129 P
+122
+130 P
+48 S
+131 P
+123
+132 P
+124
+133 P
+49 S
+125
+134 P
+126
+135 P
+50 S
+127
+136 P
+128
+137 P
+129
+51 S
+138 P
+130
+139 P
+131
+140 P
+52 S
+132
+141 P
+133
+142 P
+53 S
+134
+143 P
+135
+144 P
+136
+54 S
+145 P
+137
+146 P
+138
+147 P
+55 S
+139
+148 P
+140
+149 P
+141
+56 S
+150 P
+142
+151 P
+143
+57 S
+152 P
+144
+145
+153 P
+146
+154 P
+58 S
+155 P
+148
+156 P
+149
+59 S
+157 P
+150
+158 P
+159 P
+151
+60 S
+160 P
+152
+153
+162 P
+154
+163 P
+155
+164 P
+61 S
+165 P
+156
+166 P
+157
+167 P
+62 S
+158
+168 P
+159
+169 P
+160
+170 P
+63 S
+161
+171 P
+162
+172 P
+163
+64 S
+173 P
+164
+174 P
+165
+175 P
+166
+65 S
+176 P
+167
+177 P
+168
+178 P
+66 S
+179 P
+169
+180 P
+170
+181 P
+171
+67 S
+182 P
+172
+183 P
+173
+184 P
+174
+68 S
+185 P
+175
+186 P
+176
+187 P
+69 S
+177
+188 P
+178
+189 P
+179
+70 S
+190 P
+180
+191 P
+181
+192 P
+71 S
+182
+193 P
+183
+194 P
+184
+72 S
+195 P
+185
+196 P
+186
+197 P
+73 S
+187
+198 P
+188
+199 P
+189
+200 P
+74 S
+190
+201 P
+191
+202 P
+75 S
+192
+203 P
+204 P
+193
+205 P
+194
+76 S
+206 P
+195
+196
+207 P
+208 P
+197
+209 P
+198
+210 P
+199
+78 S
+211 P
+200
+212 P
+201
+213 P
+202
+214 P
+79 S
+203
+215 P
+216 P
+204
+80 S
+217 P
+205
+218 P
+206
+219 P
+207
+81 S
+220 P
+208
+221 P
+209
+82 S
+222 P
+210
+223 P
+211
+224 P
+83 S
+212
+225 P
+213
+226 P
+214
+84 S
+227 P
+215
+228 P
+216
+229 P
+85 S
+217
+230 P
+218
+231 P
+219
+232 P
+86 S
+220
+233 P
+234 P
+221
+87 S
+222
+235 P
+236 P
+223
+237 P
+224
+88 S
+238 P
+225
+239 P
+226
+240 P
+89 S
+227
+241 P
+228
+242 P
+229
+90 S
+243 P
+230
+244 P
+231
+245 P
+232
+246 P
+91 S
+233
+247 P
+234
+248 P
+235
+236
+251 P
+237
+252 P
+238
+93 S
+253 P
+239
+254 P
+240
+255 P
+256 P
+94 S
+241
+257 P
+242
+258 P
+243
+95 S
+259 P
+244
+260 P
+261 P
+245
+96 S
+246
+262 P
+247
+263 P
+248
+264 P
+97 S
+249
+265 P
+266 P
+250
+267 P
+98 S
+251
+268 P
+269 P
+252
+99 S
+270 P
+253
+271 P
+254
+272 P
+255
+100 S
+273 P
+256
+274 P
+257
+275 P
+101 S
+258
+276 P
+259
+277 P
+102 S
+260
+278 P
+261
+279 P
+262
+280 P
+103 S
+281 P
+263
+282 P
+264
+104 S
+283 P
+265
+284 P
+266
+285 P
+267
+105 S
+286 P
+268
+287 P
+269
+288 P
+106 S
+270
+289 P
+290 P
+271
+291 P
+107 S
+272
+292 P
+273
+293 P
+274
+108 S
+294 P
+275
+295 P
+296 P
+276
+109 S
+277
+297 P
+278
+298 P
+279
+299 P
+110 S
+300 P
+280
+301 P
+281
+111 S
+302 P
+282
+303 P
+283
+304 P
+284
+112 S
+305 P
+285
+306 P
+286
+113 S
+307 P
+287
+288
+308 P
+309 P
+114 S
+289
+310 P
+290
+311 P
+291
+115 S
+312 P
+292
+313 P

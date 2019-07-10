@@ -1,0 +1,213 @@
+@node
+@_book=De Theophania (Fragmenta)
+@author=Eusebius
+@availableStructure=fragment
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=Eusebius Werke, Hugo Gressmann, Eusebius, J. C. Hinrichs'Sche Buchhandlung, Leipzig, 1904, vol. iii pt. ii, Internet Archive.
+@editor=Hugo Gressmann
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg2018.tlg010.opp-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:36:08Z
+
+1
+244	2
+257	3
+284	4
+299	5
+373	6
+400	7
+410	8
+494	9
+600	10
+615	11
+646	12
+816	13
+823	14
+855	15
+860	16
+894	17
+917	18
+962	19
+1006	20
+1065	21
+22
+1108	23
+1135	24
+1186	25
+1208	26
+1236	27
+1370	28
+1458	29
+1470	30
+1493	31
+1547	32
+1634	33
+1665	34
+1670	35
+1679	36
+1687	37
+1785	38
+1837	39
+1925	40
+1963	41
+2006	42
+2130	43
+2204	44
+2224	45
+2262	46
+2278	47
+2296	48
+2311	49
+2355	50
+2406	51
+2422	52
+2446	53
+2467	54
+2553	55
+2594	56
+2611	57
+2617	58
+2641	59
+2673	60
+2726	61
+2750	62
+2772	63
+2785	64
+2819	65
+2836	66
+2861	67
+2901	68
+2913	69
+2980	70
+2996	71
+3041	72
+3188	73
+3316	74
+3356	75
+3438	76
+3460	77
+3496	78
+3508	79
+3555	80
+3593	81
+3641	82
+3671	83
+3696	84
+3798	85
+3811	86
+3919	87
+3985	88
+4010	89
+4017	90
+4039	91
+4111	92
+4168	93
+4197	94
+4202	95
+4268	96
+4311	97
+4347	98
+4372	99
+4393	100
+4523	101
+4682	102
+4697	103
+4705	104
+4742	105
+4772	106
+4796	107
+4867	108
+4933	109
+5003	110
+5033	111
+5130	112
+5158	113
+5195	114
+5209	115
+5240	116
+5331	117
+5506	118
+5525	119
+5539	120
+5597	121
+5624	122
+5707	123
+5723	124
+5761	125
+5813	126
+5833	127
+5875	128
+5882	129
+5899	130
+5991	131
+6016	132
+6032	133
+6123	134
+6186	135
+6275	136
+6305	137
+6372	138
+6388	139
+6407	140
+6427	141
+6483	142
+6501	143
+6520	144
+6527	145
+6569	146
+6627	147
+6679	148
+6694	149
+6741	150
+6778	151
+6819	152
+6866	153
+6935	154
+6947	155
+6989	156
+7006	157
+7052	158
+7061	159
+7091	160
+7167	161
+7306	162
+7381	163
+7494	164
+7509	165
+7531	166
+7577	167
+7593	168
+7606	169
+7611	170
+7643	171
+7657	172
+7671	173
+7738	174
+7754	175
+7778	176
+7805	177
+7827	178
+7846	179
+7866	180
+7922	181
+7956	182
+7960	183
+7998	184
+8009	185
+8070	186
+8097	187
+8172	188
+8174	1

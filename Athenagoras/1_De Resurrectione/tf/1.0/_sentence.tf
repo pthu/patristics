@@ -1,0 +1,188 @@
+@node
+@_book=De Resurrectione
+@author=Athenagoras
+@availableStructure=chapter
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=Athenagorae Philosophi Atheniensis Opera, Athenagoras, Johann Karl Theodor von Otto, Mauke, Ienae, 1857, Internet Archive.
+@editor=Johann Karl Theodor von Otto
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=not provided by source
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg1205.tlg002.perseus-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:37:22Z
+
+1
+43	2
+81	3
+114	4
+140	5
+185	6
+229	7
+259	8
+328	9
+366	10
+416	11
+419	12
+475	13
+541	14
+572	15
+603	16
+630	17
+696	18
+746	19
+801	20
+851	21
+869	22
+905	23
+932	24
+1004	25
+1096	26
+1134	27
+1173	28
+1234	29
+1321	30
+1416	31
+1579	32
+1714	33
+1772	34
+1827	35
+1941	36
+1974	37
+2067	38
+2090	39
+2178	40
+2263	41
+2361	42
+2542	43
+2559	44
+2652	45
+2669	46
+2685	47
+2707	48
+2711	49
+2723	50
+2739	51
+2753	52
+2804	53
+2861	54
+2884	55
+2898	56
+2910	57
+2925	58
+2943	59
+2979	60
+3000	61
+3043	62
+3087	63
+3194	64
+3217	65
+3277	66
+3314	67
+3342	68
+3401	69
+3412	70
+3486	71
+3545	72
+3705	73
+3710	74
+3735	75
+3751	76
+3763	77
+3793	78
+3866	79
+3947	80
+4021	81
+4094	82
+4189	83
+4211	84
+4316	85
+4377	86
+4396	87
+4456	88
+4467	89
+4513	90
+4581	91
+4634	92
+4695	93
+4745	94
+4766	95
+4853	96
+4923	97
+5061	98
+5092	99
+5111	100
+5127	101
+5144	102
+5181	103
+5222	104
+5237	105
+5250	106
+5260	107
+5266	108
+5279	109
+5360	110
+5393	111
+5425	112
+5574	113
+5611	114
+5703	115
+5751	116
+5795	117
+5876	118
+5962	119
+6026	120
+6139	121
+6273	122
+6309	123
+6331	124
+6409	125
+6626	126
+6666	127
+6748	128
+6823	129
+6835	130
+6878	131
+6909	132
+6935	133
+7050	134
+7095	135
+7140	136
+7190	137
+7224	138
+7236	139
+7299	140
+7353	141
+7578	142
+7620	143
+7668	144
+7701	145
+7969	146
+8038	147
+8107	148
+8153	149
+8210	150
+8229	151
+8285	152
+8332	153
+8378	154
+8479	155
+8520	156
+8536	157
+8579	158
+8646	159
+8708	160
+8737	161
+8786	162
+8818	163
+8820	1

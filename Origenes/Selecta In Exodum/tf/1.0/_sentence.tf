@@ -1,0 +1,195 @@
+@node
+@_book=Selecta in Exodum
+@author=Origenes
+@availableStructure=paragraph
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=Origenis Opera Omnia, Patrologiae cursus completus (series Graeca), Charles Delarue, Origen, J. P. Migne, Paris, 1862, 2, 12, Internet Archive.
+@editor=Charles Delarue
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg2042.tlg050.1st1K-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:40:10Z
+
+1
+9	2
+15	3
+30	4
+43	5
+57	6
+94	7
+112	8
+165	9
+177	10
+201	11
+230	12
+257	13
+268	14
+270	15
+293	16
+302	17
+355	18
+361	19
+366	20
+379	21
+390	22
+411	23
+432	24
+460	25
+487	26
+498	27
+534	28
+584	29
+598	30
+604	31
+616	32
+632	33
+648	34
+650	35
+671	36
+690	37
+703	38
+730	39
+741	40
+757	41
+764	42
+773	43
+794	44
+815	45
+838	46
+852	47
+855	48
+890	49
+902	50
+922	51
+925	52
+946	53
+979	54
+994	55
+1003	56
+1036	57
+1042	58
+1086	59
+1088	60
+1107	61
+1109	62
+1127	63
+1144	64
+1155	65
+1189	66
+1202	67
+1222	68
+1237	69
+1257	70
+1288	71
+1302	72
+1330	73
+1342	74
+1385	75
+1392	76
+1425	77
+1437	78
+1472	79
+1497	80
+1512	81
+1530	82
+1552	83
+1564	84
+1573	85
+1582	86
+1593	87
+1629	88
+1682	89
+1689	90
+1700	91
+1747	92
+1779	93
+1798	94
+1810	95
+1835	96
+1846	97
+1867	98
+1896	99
+1924	100
+1942	101
+1956	102
+1995	103
+2030	104
+2059	105
+2067	106
+2074	107
+2113	108
+2140	109
+2150	110
+2175	111
+2185	112
+2214	113
+2225	114
+2242	115
+2252	116
+2261	117
+2271	118
+2295	119
+2320	120
+2335	121
+2342	122
+2350	123
+2371	124
+2380	125
+2387	126
+2403	127
+2457	128
+2469	129
+2492	130
+2502	131
+2509	132
+2520	133
+2526	134
+2531	135
+2545	136
+2551	137
+2565	138
+2582	139
+2593	140
+2604	141
+2607	142
+2629	143
+2664	144
+2678	145
+2685	146
+2707	147
+2715	148
+2777	149
+2780	150
+2805	151
+2831	152
+2840	153
+2878	154
+2895	155
+2936	156
+2965	157
+2970	158
+2979	159
+3023	160
+3043	161
+3056	162
+3059	163
+3062	164
+3069	165
+3081	166
+3100	167
+3124	168
+3141	169
+3152	170
+3154	1

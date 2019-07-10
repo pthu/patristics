@@ -1,0 +1,208 @@
+@node
+@_book=De Martyribus Palaestinae (Recensio Brevior)
+@author=Eusebius
+@availableStructure=chapter,section
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=Eusebii Caesariensis Opera, Guilielmus Dindorfius, Eusebius, Teubner, Leipzig, 1871, IV, Internet Archive.
+@editor=Wilhelm Dindorf
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg2018.tlg003.opp-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:36:37Z
+
+1
+67	2
+79	3
+103	4
+171	5
+193	6
+259	7
+272	8
+352	9
+362	10
+434	11
+449	12
+482	13
+494	14
+509	15
+596	16
+618	17
+665	18
+681	19
+698	20
+774	21
+790	22
+830	23
+939	24
+1030	25
+1057	26
+1098	27
+1135	28
+1146	29
+1154	30
+1182	31
+1261	32
+1331	33
+1357	34
+1475	35
+1679	36
+1756	37
+1795	38
+1859	39
+1891	40
+1915	41
+1955	42
+2003	43
+2011	44
+2057	45
+2085	46
+2107	47
+2143	48
+2155	49
+2297	50
+2314	51
+2361	52
+2427	53
+2445	54
+2537	55
+2547	56
+2554	57
+2576	58
+2599	59
+2643	60
+2658	61
+2671	62
+2687	63
+2693	64
+2765	65
+2781	66
+2804	67
+2822	68
+2830	69
+2840	70
+2899	71
+3017	72
+3053	73
+3083	74
+3146	75
+3248	76
+3290	77
+3410	78
+3450	79
+3489	80
+3529	81
+3571	82
+3665	83
+3689	84
+3716	85
+3747	86
+3773	87
+3794	88
+3969	89
+4017	90
+4025	91
+4075	92
+4138	93
+4245	94
+4315	95
+4345	96
+4353	97
+4366	98
+4388	99
+4398	100
+4428	101
+4519	102
+4563	103
+4578	104
+4595	105
+4625	106
+4673	107
+4697	108
+4712	109
+4721	110
+4731	111
+4798	112
+4820	113
+4907	114
+4991	115
+5024	116
+5028	117
+5059	118
+5157	119
+5176	120
+5225	121
+5252	122
+5275	123
+5374	124
+5393	125
+5490	126
+5522	127
+5532	128
+5578	129
+5615	130
+5670	131
+5698	132
+5706	133
+5718	134
+5780	135
+5817	136
+5859	137
+5893	138
+5916	139
+5931	140
+5959	141
+6071	142
+6076	143
+6101	144
+6125	145
+6143	146
+6199	147
+6272	148
+6313	149
+6382	150
+6441	151
+6452	152
+6461	153
+6482	154
+6509	155
+6522	156
+6545	157
+6575	158
+6618	159
+6638	160
+6723	161
+6744	162
+6768	163
+6782	164
+6962	165
+6978	166
+7055	167
+7093	168
+7145	169
+7192	170
+7226	171
+7249	172
+7296	173
+7385	174
+7404	175
+7512	176
+7600	177
+7617	178
+7695	179
+7746	180
+7798	181
+182
+7855	183
+7857	1

@@ -1,0 +1,189 @@
+@node
+@_book=De resurrectione
+@author=Athenagoras
+@availableStructure=chapter,section
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=Athenagoras, Athenagoras, Francis Andrew March, William Baxter Owen, Harper and Brothers, New York, 1876, Google Books.
+@editor=Francis Andrew March, William Baxter Owen
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=not provided by source
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg1205.tlg002.perseus-grc2
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:37:21Z
+
+1
+43	2
+81	3
+114	4
+140	5
+184	6
+228	7
+258	8
+327	9
+365	10
+415	11
+418	12
+474	13
+540	14
+571	15
+602	16
+629	17
+695	18
+745	19
+800	20
+850	21
+868	22
+904	23
+931	24
+1003	25
+1095	26
+1133	27
+1172	28
+1233	29
+1320	30
+1415	31
+1578	32
+1714	33
+1772	34
+1827	35
+1941	36
+1974	37
+2067	38
+2090	39
+2195	40
+2276	41
+2361	42
+2458	43
+2639	44
+2656	45
+2749	46
+2766	47
+2782	48
+2804	49
+2808	50
+2820	51
+2836	52
+2850	53
+2901	54
+2958	55
+2981	56
+2995	57
+3007	58
+3022	59
+3040	60
+3076	61
+3097	62
+3140	63
+3184	64
+3291	65
+3314	66
+3374	67
+3411	68
+3439	69
+3498	70
+3509	71
+3583	72
+3642	73
+3802	74
+3807	75
+3832	76
+3848	77
+3860	78
+3890	79
+3963	80
+4044	81
+4118	82
+4191	83
+4286	84
+4308	85
+4413	86
+4474	87
+4493	88
+4553	89
+4564	90
+4610	91
+4678	92
+4731	93
+4792	94
+4842	95
+4863	96
+4950	97
+5020	98
+5158	99
+5189	100
+5208	101
+5224	102
+5241	103
+5278	104
+5319	105
+5334	106
+5347	107
+5357	108
+5363	109
+5376	110
+5457	111
+5490	112
+5522	113
+5671	114
+5708	115
+5800	116
+5848	117
+5892	118
+5973	119
+6059	120
+6123	121
+6236	122
+6370	123
+6406	124
+6428	125
+6506	126
+6723	127
+6763	128
+6845	129
+6920	130
+6932	131
+6975	132
+7006	133
+7032	134
+7147	135
+7192	136
+7237	137
+7287	138
+7321	139
+7333	140
+7396	141
+7450	142
+7675	143
+7717	144
+7765	145
+7798	146
+8066	147
+8135	148
+8204	149
+8250	150
+8307	151
+8326	152
+8382	153
+8429	154
+8475	155
+8576	156
+8617	157
+8633	158
+8676	159
+8743	160
+8805	161
+8834	162
+8883	163
+8915	164
+8917	1

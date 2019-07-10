@@ -1,0 +1,204 @@
+@node
+@_book=Libanius Opera
+@author=not provided
+@availableStructure=chapter
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=Richardus Foerster, Richard Foerster, Libanius, Orationes XIII-XXX, In Aedibus B. G. Teubneri, Lipsiae, 1911, 6, Internet Archive.
+@editor=not provided
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg9006.tlg011.opp-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:35:21Z
+
+1
+52	2
+105	3
+134	4
+5
+138	6
+141	7
+162	8
+274	9
+326	10
+375	11
+547	12
+594	13
+633	14
+649	15
+659	16
+679	17
+689	18
+694	19
+706	20
+763	21
+854	22
+881	23
+920	24
+993	25
+1044	26
+1075	27
+1104	28
+1120	29
+1205	30
+1238	31
+1260	32
+1295	33
+1323	34
+1329	35
+1341	36
+1357	37
+1387	38
+1389	39
+1397	40
+1434	41
+1447	42
+1480	43
+1492	44
+1504	45
+1530	46
+1551	47
+1571	48
+1582	49
+1642	50
+1650	51
+1677	52
+1716	53
+1823	54
+1843	55
+1867	56
+1895	57
+1920	58
+2038	59
+2063	60
+2080	61
+2091	62
+2128	63
+2182	64
+2201	65
+2230	66
+2247	67
+2255	68
+2293	69
+2301	70
+2306	71
+2351	72
+2388	73
+2409	74
+2463	75
+2538	76
+2565	77
+2569	78
+2579	79
+2602	80
+2607	81
+2636	82
+2670	83
+2679	84
+2685	85
+2708	86
+2817	87
+2839	88
+2904	89
+2924	90
+2936	91
+2949	92
+2994	93
+3025	94
+3057	95
+3106	96
+3197	97
+3227	98
+3267	99
+3274	100
+3345	101
+3359	102
+3381	103
+3397	104
+3422	105
+3468	106
+3475	107
+3496	108
+3528	109
+3547	110
+3557	111
+3563	112
+3570	113
+3602	114
+3613	115
+3631	116
+3653	117
+3673	118
+3807	119
+3911	120
+3945	121
+3998	122
+4083	123
+4123	124
+4152	125
+4175	126
+4194	127
+4221	128
+4284	129
+4318	130
+4348	131
+4377	132
+4401	133
+4421	134
+4463	135
+4506	136
+4524	137
+4626	138
+4675	139
+4722	140
+4742	141
+4760	142
+4817	143
+4842	144
+4943	145
+5072	146
+5090	147
+5107	148
+5139	149
+5158	150
+5195	151
+5228	152
+5312	153
+5347	154
+5374	155
+5398	156
+5445	157
+5503	158
+5524	159
+5559	160
+5576	161
+5586	162
+5607	163
+5639	164
+5656	165
+5707	166
+5719	167
+5746	168
+5767	169
+5790	170
+5859	171
+5919	172
+5998	173
+6018	174
+6033	175
+6061	176
+6144	177
+6157	178
+6172	179
+6174	1

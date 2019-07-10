@@ -1,0 +1,211 @@
+@node
+@_book=Catena In Epistulam Ad Titum
+@author=Catenae (Novum Testamentum)
+@availableStructure=chapter
+@compiler=Ernst Boogert
+@description=numbering of sentences with "." as its delimiter
+@edition=John Anthony Cramer, Catenæ Græcorum Patrum in Novum Testamentum, In Epistolas S. Pauli Ad Timotheum, Titum, Philemona, Et Ad Hebraeos, Oxford University Press, Oxford, 1843, 7, Internet Archive.
+@editor=John Anthony Cramer
+@institution=Protestant Theological University (PThU) Amsterdam/Groningen, The Netherlands
+@lang=grc
+@license=Available under a Creative Commons Attribution-ShareAlike 4.0 International License
+@name=Patristic corpus from Perseus
+@purpose=Making Perseus TEI formatted text available in TF
+@source1=Perseus Digital Library
+@source2=Open Greek and Latin Project
+@status=initial unchecked conversion
+@url1=https://github.com/PerseusDL/canonical-greekLit
+@url2=https://github.com/OpenGreekAndLatin/First1KGreek
+@urn=urn:cts:greekLit:tlg4102.tlg036.opp-grc1
+@valueType=int
+@version=1.0
+@writtenBy=Text-Fabric
+@dateWritten=2019-07-10T11:38:43Z
+
+1
+7	2
+21	3
+37	4
+55	5
+75	6
+127	7
+154	8
+198	9
+222	10
+266	11
+275	12
+285	13
+14
+293	15
+16
+305	17
+314	18
+322	19
+333	20
+365	21
+379	22
+419	23
+530	24
+569	25
+596	26
+628	27
+663	28
+683	29
+721	30
+762	31
+881	32
+917	33
+935	34
+985	35
+36
+1005	37
+1019	38
+1032	39
+40
+1049	41
+1057	42
+1067	43
+1090	44
+45
+1115	46
+1120	47
+1127	48
+1131	49
+1149	50
+1164	51
+1289	52
+1306	53
+1360	54
+1376	55
+1387	56
+1414	57
+1421	58
+1441	59
+1450	60
+1484	61
+1510	62
+1519	63
+1534	64
+1575	65
+1598	66
+1612	67
+1617	68
+1636	69
+1647	70
+1675	71
+1692	72
+1714	73
+1717	74
+1740	75
+1794	76
+1845	77
+1852	78
+1891	79
+1914	80
+1930	81
+1933	82
+1989	83
+2057	84
+2067	85
+2090	86
+2104	87
+2123	88
+2199	89
+90
+2216	91
+2227	92
+2275	93
+94
+2351	95
+2367	96
+2425	97
+2429	98
+99
+2445	100
+2456	101
+2486	102
+2501	103
+2516	104
+105
+2525	106
+2542	107
+2555	108
+2586	109
+2643	110
+2668	111
+112
+2744	113
+2757	114
+2788	115
+2798	116
+2816	117
+2843	118
+2867	119
+2872	120
+2884	121
+2899	122
+2905	123
+2936	124
+2942	125
+2964	126
+127
+2973	128
+2982	129
+2989	130
+2999	131
+3031	132
+3041	133
+3076	134
+3081	135
+3150	136
+3165	137
+3187	138
+3212	139
+3223	140
+3255	141
+3279	142
+3408	143
+3428	144
+3476	145
+3486	146
+3502	147
+3525	148
+3533	149
+3565	150
+3581	151
+3623	152
+3631	153
+3640	154
+3650	155
+3689	156
+3704	157
+3732	158
+3742	159
+3762	160
+3770	161
+3806	162
+3845	163
+3912	164
+3940	165
+3957	166
+4030	167
+4072	168
+4096	169
+4164	170
+4170	171
+4187	172
+4238	173
+4248	174
+4261	175
+4303	176
+4314	177
+4355	178
+4365	179
+4381	180
+4393	181
+4401	182
+4407	183
+4459	184
+4485	185
+4496	186
+4498	1
