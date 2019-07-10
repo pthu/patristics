@@ -1,0 +1,52 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files #
+###################
+*.swp
+*.pyc
+*.tfx
+
+# Build directories #
+#####################
+site/
+_site/
+_themes/
+build/
+_build/
+__pycache__/
+_temp/
+#tf/
+.ipynb_checkpoints/
+.vscode
+#tf/1.0/
+.git/
+.tf/
+
+
+# Config files which get locally modified
+#########################################
+.jekyll-metadata
+
+# Individual files
+#########################################
+
+MorpheusUnicode.xml
+#*.tf
+Untitled.ipynb
+temp-plot.html
+*.html
+text-20180208_001.txt
